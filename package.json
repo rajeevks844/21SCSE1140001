@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "@chec/commerce.js": "^1.0.0",
-    "bootstrap": "^5.3.3",
-    "react-router-dom": "^6.23.1"
-  }
-}
